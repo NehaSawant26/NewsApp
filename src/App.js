@@ -26,11 +26,7 @@ const App =()=>  {
           <Route exact path="/Science" element={<News key="Science"  pageSize={9} country="in" category="Science" />} />
           <Route exact path="/Sports" element={<News  key="Sports" pageSize={9} country="in" category="Sports" />} />
           <Route exact path="/Health" element={<News key="Health"  pageSize={9} country="in" category="Health" />} />
-          <Route exact path="/Travel" element={<News key="Travel"  pageSize={9} country="in" category="Travel" />} 
-          />
-          <Route exact path="/Politics" element={<News key="Politics"  pageSize={9} country="in" category="Politics" />} 
-          />
-          
+       
         </Routes>
       </div>
       </Router>
