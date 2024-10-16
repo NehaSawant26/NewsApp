@@ -1,5 +1,18 @@
 {
-   "rewrites":  [
-       {"source": "/(.*)", "destination": "/index.js"}
+   "routes":  [
+       {"src": "/",
+         "dest": "/"},
+      {"src": "/Business",
+         "dest": "/"},
+      {"src": "/Entertainment",
+         "dest": "/"},
+      {"src": "/Science",
+         "dest": "/"},
+      {"src": "/Sports",
+         "dest": "/"},
+      {"src": "/Health",
+         "dest": "/"},
+      {"src": "/Travel",
+         "dest": "/"}
     ]
 }
