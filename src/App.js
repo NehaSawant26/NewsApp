@@ -6,7 +6,7 @@ import News from './components/News';
 import Sidebar from './components/Sidebar';
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route
 } from "react-router-dom";
