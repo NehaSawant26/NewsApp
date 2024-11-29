@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+    {
+    "source":{
+    "id": null,
+    "name": "STAT"
+    },
+    "author": "Helen Branswell",
+    "title": "What we know about H5N1 bird flu in cows — and the risk to humans - STAT",
+    "description": "Are people at risk from drinking milk from cows infected with H5N1 bird flu, and answers to other questions about the cattle outbreak.",
+    "url": "https://www.statnews.com/2024/04/03/h5n1-bird-flu-in-cows-risk-to-humans/",
+    "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/04/AP630933525501-1024x576.jpg",
+    "publishedAt": "2024-04-03T08:33:42Z",
+    "content": "The discovery of H5N1 bird flu in U.S. cattle and the news that at least one person in Texas has been infected, apparently through contact with infected cows has taken scientists who study influenza … [+6745 chars]"
+    },
+    {
+    "source":{
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Taiwan hit by strong quake as tsunami threat recedes in Japan, Philippines - Al Jazeera English",
+    "description": "Taiwanese authorities say seven people killed in Hualien County, including three hikers, and more than 700 injured.",
+    "url": "https://www.aljazeera.com/news/2024/4/3/japan-issues-tsunami-alert-after-7-5-magnitude-earthquake",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/AP24094038761392-1712106868.jpg?resize=1920%2C1440",
+    "publishedAt": "2024-04-03T07:41:15Z",
+    "content": "Taiwan has been rocked by its biggest earthquake in a quarter-century, with the above-7 magnitude tremor killing at least seven people, injuring more than 700, and triggering tsunami warnings that pa… [+3855 chars]"
+    },
+    {
+    "source":{
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "Severe storms hit Ohio, Kentucky, Tennessee with tornadoes, high winds - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2024/04/02/extreme-weather-tornadoes-ohio-south",
+    "urlToImage": null,
+    "publishedAt": "2024-04-03T06:33:45Z",
+    "content": null
+    },
+    {
+    "source":{
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Robert Legare",
+    "title": "Special counsel pushes back at Judge Cannon in classified documents case, claims \"not a single\" Trump White House official backed up former president's claims of privatizing records - CBS News",
+    "description": "Judge Aileen Cannon asked special counsel and Trump to file hypothetical jury instructions in the classified documents case by Tuesday.",
+    "url": "https://www.cbsnews.com/news/trump-jack-smith-special-counsel-jury-instructions-documents-case/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/02/29336646-b86f-4d3d-ae00-b7f786b1c6ce/thumbnail/1200x630g2/bb84e90aa772ede60afaded430c72ce4/screenshot-2024-04-02-at-4-30-58-pm.png?v=28e996fb04f1867b9e0abe6d7ce5112f",
+    "publishedAt": "2024-04-03T04:48:00Z",
+    "content": "Washington — Special counsel Jack Smith urged a federal judge to keep a presidential recordkeeping law out of instructions that would be provided to the jury in the classified documents case against … [+7775 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Victor Wembanyama just short of quadruple-double in historic performance against Nuggets - CBS Sports",
+    "description": "Wembanyama was the first player in NBA history with 20 points, 15 rebounds, eight assists and eight blocks",
+    "url": "https://www.cbssports.com/nba/news/victor-wembanyama-just-short-of-quadruple-double-in-historic-performance-against-nuggets/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/04/03/2b600dd3-6505-49c4-bd5b-badfb368fdbd/thumbnail/1200x675/3dbc0441fd918a4e93a3e7fcbedc6bdc/usatsi-victor-wembanyama-spurs.jpg",
+    "publishedAt": "2024-04-03T04:38:31Z",
+    "content": "Denver Nuggets coach Michael Malone calledVictor Wembanyama \"the future of the NBA\" after defeating the San Antonio Spurs on Tuesday, but the compliment almost didn't go far enough. He went toe-to-to… [+2627 chars]"
+    },
+    {
+    "source":{
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Leah Sarnoff",
+    "title": "Why April's total solar eclipse will be a historic event in the US - ABC News",
+    "description": "The next total solar eclipse in the contiguous U.S. won't be until August 2044.",
+    "url": "https://abcnews.go.com/US/aprils-total-solar-eclipse-historic-event-us/story?id=107977119",
+    "urlToImage": "https://i.abcnewsfe.com/a/5e72619b-c1b8-4ade-95b9-8680d152034d/annular-eclipse-1-gty-gmh-231002_1696279875713_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-04-03T02:55:11Z",
+    "content": "\"Eclipse Across America,\" will air live Monday, April 8, beginning at 2 p.m. ET on ABC, ABC News Live, National Geographic Channel, Nat Geo WILD, Disney+ and Hulu as well as network social media plat… [+4121 chars]"
+    },
+    {
+    "source":{
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Sean Lyngaas",
+    "title": "US government review faults Microsoft for ‘cascade’ of errors that allowed Chinese hackers to breach senior US officials’ emails - CNN",
+    "description": "Microsoft committed a “cascade” of “avoidable errors” that allowed Chinese hackers to breach the tech giant’s network and later the email accounts of senior US officials last year, including the secretary of commerce, a scathing US government-backed review of…",
+    "url": "https://www.cnn.com/2024/04/02/tech/us-government-microsoft-hack/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1971423736.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-03T02:29:00Z",
+    "content": "Microsoft committed a cascade of avoidable errors that allowed Chinese hackers to breach the tech giants network and later the email accounts of senior US officials last year, including the secretary… [+3013 chars]"
+    },
+    {
+    "source":{
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "MJ Lee",
+    "title": "Deaths of World Central Kitchen workers touches off fury inside Biden White House - CNN",
+    "description": "An Israeli strike in Gaza that killed seven aid workers for the non-profit World Central Kitchen has touched off fury and indignation inside the White House, prompting President Joe Biden on Tuesday to release a public statement using a word he has rarely inv…",
+    "url": "https://www.cnn.com/2024/04/02/politics/biden-white-house-world-central-kitchen/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-04-02t174457z-234781035-rc21y6aa7jh3-rtrmadp-3-israel-palestinians-gaza-foreigners.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-03T02:20:00Z",
+    "content": "An Israeli strike in Gaza that killed seven aid workers for the non-profit World Central Kitchen has touched off fury and indignation inside the White House, prompting President Joe Biden on Tuesday … [+1964 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Callie Lawson-Freeman",
+    "title": "March Madness: Iowa's win over LSU draws 12.3M views to smash record for most-watched NCAAW game - Yahoo Sports",
+    "description": "LSU's win over Iowa in last year's NCAA title game was the previous record holder.",
+    "url": "https://sports.yahoo.com/march-madness-iowas-win-over-lsu-draws-123m-views-to-smash-record-for-most-watched-ncaaw-game-014731830.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FZEN65DIbM2ZbNn2q03QAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/250c9e20-f147-11ee-bf17-6a25d12d2a8c",
+    "publishedAt": "2024-04-03T01:47:00Z",
+    "content": "Iowa's win over LSU in the Elite Eight is the most-viewed women's college basketball game of all time after averaging 12.3 million viewers Monday night.\r\nThe audience peaked at 16.1 million viewers t… [+3186 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Exploding space junk puzzles California sky watchers - BBC.com",
+    "description": "Mysterious, golden streaks lit up the sky across southern California, causing a flurry of speculation.",
+    "url": "https://www.bbc.com/news/world-us-canada-68719850",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15488/production/_133067178_3234.jpg",
+    "publishedAt": "2024-04-03T01:43:26Z",
+    "content": null
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Dade Hayes, Jill Goldsmith, Dominic Patten",
+    "title": "As Disney Proxy Fight Nears End, Succession Saga Will Keep Heat On Bob Iger Regardless Of Shareholder Vote Tally - Deadline",
+    "description": "Disney shareholders are about to choose their board but the pressure is on Bob Iger regardless of who wins the company proxy fight with Nelson Peltz.",
+    "url": "http://deadline.com/2024/04/disney-proxy-fight-bob-iger-succession-nelson-peltz-shareholder-meeting-1235874236/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/02/bob-disney.jpg?w=1024",
+    "publishedAt": "2024-04-03T01:40:00Z",
+    "content": "The minutes are ticking down to the close of Disney’s bitter proxy fight with Nelson Peltz, whose attempt to scale the board is a direct challenge to CEO Bob Iger.\r\nBarring any hanging chads, results… [+5632 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Rolling Stone"
+    },
+    "author": "Charisma Madarang",
+    "title": "Trump Lies That It ‘Came Out’ He Won Wisconsin During Gaffe-Filled Rally - Rolling Stone",
+    "description": "Trump took the stage in the badger state and proceeded to paint an alternate reality in which he was declared the victor in 2020.",
+    "url": "http://www.rollingstone.com/politics/politics-news/trump-wisconsin-election-gaffe-rally-1234998233/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/04/trump-rally-michigan.jpg?w=1600&h=900&crop=1",
+    "publishedAt": "2024-04-03T01:05:33Z",
+    "content": "Trump hit two critical Midwest battlegrounds on Tuesday, first stopping in Grand Rapids, Michigan, then traveling to Green Bay, Wisconsin — “blue wall” states he won in 2016, then lost to President J… [+2601 chars]"
+    },
+    {
+    "source":{
+    "id": null,
+    "name": "Charleston Gazette-Mail"
+    },
+    "author": "Staff reports",
+    "title": "Weather updates: Severe weather in Charleston WV | Kanawha Valley - Charleston Gazette-Mail",
+    "description": "Here is the latest information about severe weather in the Charleston, West Virginia area as storms move through on April 2, 2024.",
+    "url": "https://www.wvgazettemail.com/news/kanawha_valley/live-weather-updates-strong-storms-hit-charleston-around-140-000-out-of-power-in-west/article_fbcfc930-82e6-5c4b-ae8f-b462d11be25f.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/f/bc/fbcfc930-82e6-5c4b-ae8f-b462d11be25f/660c7646eb11d.preview.jpg?crop=1821%2C956%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2024-04-03T00:53:58Z",
+    "content": "Editor's note: Return here for live weather updates as severe weather blows through the Kanawha Valley on Tuesday. Contact us with weather details at 304-348-5124 or by email at cmillette@hdmediallc.… [+5637 chars]"
+    },
+    {
+    "source":{
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": null,
+    "title": "Bryce Harper hits three home runs as Phillies defeat Reds - ESPN",
+    "description": "Bryce Harper homered for his first three hits of the season, including a grand slam, and the Philadelphia Phillies outlasted the Cincinnati Reds 9-4 on Tuesday night in the rain, bouncing back nicely after dropping the series opener Monday.",
+    "url": "https://www.espn.com/mlb/story/_/id/39863105/phillies-bryce-harper-homers-first-3-hits-season",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0403%2Fr1313542_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-04-03T00:50:00Z",
+    "content": "PHILADELPHIA -- Bryce Harper homered for his first three hits of the season, including a grand slam, and the Philadelphia Phillies beat the Cincinnati Reds9-4 on Tuesday night.\r\nBrandon Marsh also co… [+3123 chars]"
+    },
+    {
+    "source":{
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "JESSICA DONATI, BABACAR DIONE",
+    "title": "Ousmane Sonko named Senegal's prime minister in new government - The Associated Press",
+    "description": "Senegal has inaugurated Africa’s youngest elected leader as president, as the 44-year-old and previously little-known Bassirou Diomaye Faye completed a dramatic ascent from prison to palace within weeks. Hours after Faye's inauguration, Senegal's popular oppo…",
+    "url": "https://apnews.com/article/senegal-faye-inauguration-election-opposition-59a13e38d2a3957f9ea03e332996fe7e",
+    "urlToImage": "https://dims.apnews.com/dims4/default/92fe413/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F4a%2Fb8a1640ca53612a4e41baf9a8327%2F8cafd8f14ea842779216782ec9f5e6f9",
+    "publishedAt": "2024-04-02T23:54:00Z",
+    "content": "DAKAR, Senegal (AP) Senegal inaugurated Africas youngest elected leader as president on Tuesday, as the 44-year-old and previously little-known Bassirou Diomaye Faye completed a dramatic ascent from … [+4665 chars]"
+    }
+    ]
+    }
