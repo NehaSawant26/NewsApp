@@ -5,8 +5,9 @@ import Navbar from './components/Navbar';
 import News from './components/News';
 import Sidebar from './components/Sidebar';
 
+
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Routes,
   Route
 } from "react-router-dom";
@@ -18,6 +19,7 @@ const App =()=>  {
       <div>  
         <Sidebar />
          <Navbar/>
+        
         <Routes>
         
           <Route exact path="/" element={<News  key="General"  pageSize={9} country="in" category=" " />} />
@@ -26,7 +28,7 @@ const App =()=>  {
           <Route exact path="/Science" element={<News key="Science"  pageSize={9} country="in" category="Science" />} />
           <Route exact path="/Sports" element={<News  key="Sports" pageSize={9} country="in" category="Sports" />} />
           <Route exact path="/Health" element={<News key="Health"  pageSize={9} country="in" category="Health" />} />
-       
+          <Route exact path="/Travel" element={<News key="Travel"  pageSize={9} country="in" category="Travel" />} />
         </Routes>
       </div>
       </Router>

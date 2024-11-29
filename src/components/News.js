@@ -1,4 +1,4 @@
-import React, {useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import NewsItem from './NewsItem'
 import Spinner from './Spinner'
 import PropTypes from 'prop-types'
@@ -11,6 +11,7 @@ const News = (props) => {
     const [page, setPage] = useState(1)
     const [totalResults, setTotalResults] = useState(0)
 
+
     const UpdateNews = async () => {
         const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=1f63bdc5fc064174bc9d6cc0af24c5b8&page=${page}&pageSize=${props.pageSize}`;
         setLoading(true);
@@ -20,11 +21,15 @@ const News = (props) => {
         setArticles(parsedData.articles)
         setTotalResults(parsedData.totalResults)
         setLoading(false)
+
     }
 
     useEffect(() => {
         UpdateNews()
+
     }, [])
+
+
 
     const fetchMoreData = async () => {
         setPage(page + 1)
@@ -36,6 +41,8 @@ const News = (props) => {
         setArticles(articles.concat(parsedData.articles))
         setTotalResults(parsedData.totalResults)
         setLoading(false)
+
+
     };
 
     return (
@@ -67,6 +74,7 @@ const News = (props) => {
     )
 }
 
+
 News.defaultProps = {
     country: 'in',
     pageSize: 3,
@@ -77,6 +85,8 @@ News.propTypes = {
     country: PropTypes.string,
     pageSize: PropTypes.number,
     category: PropTypes.string
+
 }
+
 
 export default News

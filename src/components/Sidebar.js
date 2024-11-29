@@ -6,8 +6,11 @@ import * as AiIcons from 'react-icons/ai';
 import { IconContext } from 'react-icons';
 import './Sidebar.css'
 
+
+
 function Sidebar () {
     const [sidebar, setSidebar] = useState(false);
+  
     const showSidebar = () => setSidebar(!sidebar); 
   
     return (
@@ -22,10 +25,11 @@ function Sidebar () {
             <ul className='nav-menu-items'  onClick={showSidebar}>
               <li className='navbar-toggle'>
                 <Link to='#' className='menu-bars'>
-                <AiIcons.AiOutlineClose />   
+              
+                <AiIcons.AiOutlineClose />
+                  
                 </Link>
               </li>
-
               {Data.map((item, index) => {
                 return (
                   <li key={index} className={item.cName}>
@@ -39,9 +43,16 @@ function Sidebar () {
             </ul>
           </nav>
         </IconContext.Provider>
+
+
+
      </> 
     );
   }
+
+
+
+
   
 export default Sidebar
 
