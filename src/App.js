@@ -11,7 +11,6 @@ import {
 } from "react-router-dom";
 
 const App =()=>  {
-  
     return ( 
       <Router>
       <div>  
@@ -20,7 +19,7 @@ const App =()=>  {
        
         <Routes>    
           <Route exact path="/" element={<News  key="General" category=" " />} />
-          <Route exact path="/Business" element={<News key="Bussiness" category="Business" />} />
+          <Route exact path="/Bussiness" element={<News key="Bussiness" category="Bussiness" />} />
           <Route exact path="/Entertainment" element={<News  key="Entertainment" category="Entertainment" /> }/> 
           <Route exact path="/Science" element={<News key="Science" category="Science" />} />
           <Route exact path="/Sports" element={<News  key="Sports" category="Sports" />} />
